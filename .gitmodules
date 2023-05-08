@@ -4,3 +4,6 @@
 [submodule "hugo-paper"]
 	path = themes/hugo-paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
